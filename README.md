@@ -19,7 +19,7 @@
 
 ### 1. Introduction
 
-####Objective:
+**Objective:**
 Using a dataset on company reviews from Kaggle, we have selected a company (ALDI) and use EDA and Machine Learning to find out:
 1. How can ALDI better improve its ratings?
 2. How has ALDI's workplace evolve over the time?
