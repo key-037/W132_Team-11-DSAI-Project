@@ -1,6 +1,7 @@
 # Reviews on ALDI
 ----------------------------------
 
+### Presentation video: [Link](https://www.youtube.com/watch?v=zzFFoh4o9ZA&ab_channel=yujing)
 
 ### About
 This is Team 11's Data Science Mini-Project, which focuses on the [glassdoor reviews](https://www.glassdoor.com/Reviews/index.htm) on [ALDI](https://www.aldi.co.uk/), a German supermarket brand in the UK. <br> 
